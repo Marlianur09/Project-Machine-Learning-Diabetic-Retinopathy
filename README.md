@@ -4,7 +4,7 @@
 - Autors
 1. Muhammad Marlianur (201810370311023)
 2. Ernowo Gordon Unus (201810370311043)
-# Image Retrieval Diabetic Retinopaty Menggunakan MobileNet
+# Klasifikasi Diabetic Retinopaty Menggunakan Metode CNN
 
 # Overview Jurnal Referensi
 1. Jurnal Referensi
