@@ -19,7 +19,7 @@
 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 3. Hasil Pembuatan Paper Project
-- Link Drive Paper: https://drive.google.com/file/d/1nz7wOFJRf7pa4G6wDnvs9MH1dlqnbnBV/view?usp=sharing
+- Link Drive Paper: https://drive.google.com/file/d/1ZVXX8Y8LcZLtsmNJ-KJhgxs6DJAfIkgj/view?usp=sharing
 
 
 
