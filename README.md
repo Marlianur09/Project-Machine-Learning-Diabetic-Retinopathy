@@ -26,7 +26,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 # Hasil
 - Link Program WEB (Belum bisa di upload ke GitHub dan Heroku karena size yang besar) : https://drive.google.com/drive/folders/1uHNIU5K9p-AFPG2x7UI7wNuNBU9QXvx9?usp=sharing
-- Link Program : 
+- Link Program Google Collab: Ada di atas dengan nama 
 
 - Hasil deploy program (Program tidak bisa di Deploy ke Heroku karena terbatasnya kapasitas yang ada di Heroku)
 - Tampilan depan
